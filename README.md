@@ -1,7 +1,7 @@
 # TDT4160
 Datamaskiner og digitalteknikk [autumn 2016]
 
-Repository contains assignments for machine code for Silicon Labs' EFM32-G8XX-STK microcontroller.
+Repository contains assignments for this course. Such as: machine code for Silicon Labs' EFM32-G8XX-STK microcontroller.
 
 # Faglig innhold
 
